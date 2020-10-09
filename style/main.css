@@ -1,0 +1,13 @@
+body{
+    background: coral;
+    background: lavender;
+}
+#title{
+    color: red;
+}
+.container{
+    background: rebeccapurple;
+}
+h2{
+    color:green;
+}
